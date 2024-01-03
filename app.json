@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c632fb73-a341-4fed-852a-542602a1d1b4"
+      }
+    },
+    "owner": "marbax"
   }
 }
